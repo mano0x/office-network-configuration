@@ -1,0 +1,5 @@
+2026-08-29 17:56:45,929 | IP: 127.0.0.1 | Method: POST | Path: /login | Status: 200
+2026-08-29 17:57:32,947 | IP: 127.0.0.1 | Method: POST | Path: /login | Status: 200
+2026-08-29 18:05:57,250 | IP: 127.0.0.1 | Method: GET | Path: /logs | Status: 200
+2026-08-29 18:08:51,022 | IP: 127.0.0.1 | Method: GET | Path: /devices | Status: 401
+2026-08-29 18:10:40,265 | IP: 127.0.0.1 | Method: GET | Path: /devices | Status: 200
